@@ -1,8 +1,8 @@
 ## Hello, I'm Gabriel Pina
 
 - 🎓 I have a degree in Computer Engineering.
-- 📕 I'm learning Python and ETL.
-- 💻 I want to start my post graduate this year (2023) in Big Data & Data Analytics.
+- 📕 I'm learning Python and ETL (SSIS).
+- 💻 I'm going to start my MBA in Data Engineering this year.
 
 <hr>
 <div style="display: inline_block"><br>
