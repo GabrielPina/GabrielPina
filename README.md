@@ -2,7 +2,7 @@
 
 - 🎓 I have a degree in Computer Engineering.
 - 📕 I'm learning Python and ETL (SSIS).
-- 💻 I'm going to start my MBA in Data Engineering this year.
+- 💻 I'm studying technologies in the area of ​​Data Engineering.
 
 <hr>
 <div style="display: inline_block"><br>
